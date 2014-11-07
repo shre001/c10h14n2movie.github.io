@@ -282,11 +282,12 @@ nav ul li:hover, nav ul li.active {
     position:fixed;
     display:block;
     top:0;
-    right:0;
-    width:200px;
+    left:0;
+    width:133px;
     overflow:hidden;
-    height:200px;
+    height:69px;
     z-index:9999;
+    background-image:logo.png;
   }
   #forkongithub a {
     width:200px;
