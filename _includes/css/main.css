@@ -271,7 +271,7 @@ nav ul li:hover, nav ul li.active {
     overflow:hidden;
     height:69px;
     z-index:9999;
-    background-image:url("img/chn-logo-small.png");
+    background:url("img/chn-logo-small.png");
   }
 
 }
