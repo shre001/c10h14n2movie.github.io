@@ -274,7 +274,7 @@ nav ul li:hover, nav ul li.active {
 }
 #forkongithub a::before, #forkongithub a::after {
   content:""; width:100%; display:block; position:absolute;
-  top:1px; left:0; height:1px; background:#fff;
+  top:1px; left:0; height:1px; 
 }
 #forkongithub a::after { bottom:1px; top:auto; }
 @media screen and (min-width:800px) {
@@ -290,17 +290,8 @@ nav ul li:hover, nav ul li.active {
     background-image:url("http://www.joomlaworks.net/images/demos/galleries/abstract/7.jpg");
   }
   #forkongithub a {
-    width:200px;
-    position:absolute;
-    top:60px;
-    right:-60px;
-    transform:rotate(45deg);
-    -webkit-transform:rotate(45deg);
-    -ms-transform:rotate(45deg);
-    -moz-transform:rotate(45deg);
-    -o-transform:rotate(45deg);
-    box-shadow:4px 4px 10px rgba(0,0,0,0.8);
-    box-sizing: content-box;
+  
+
   }
 }
 
