@@ -363,4 +363,5 @@ nav ul li:hover, nav ul li.active {
   background-image: -o-linear-gradient(top, #1abc9c, #1abc9c);
   background-image: linear-gradient(to bottom, #1abc9c, #1abc9c);
   text-decoration: none;
+  color: #ffffff;
 }
