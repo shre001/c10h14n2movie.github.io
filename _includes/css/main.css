@@ -338,6 +338,8 @@ nav ul li:hover, nav ul li.active {
     background-position: 50% 50%;
 	
 }
+
+
 .btn {
   background: #1abc9c;
   background-image: -webkit-linear-gradient(top, #1abc9c, #16a085);
@@ -345,13 +347,14 @@ nav ul li:hover, nav ul li.active {
   background-image: -ms-linear-gradient(top, #1abc9c, #16a085);
   background-image: -o-linear-gradient(top, #1abc9c, #16a085);
   background-image: linear-gradient(to bottom, #1abc9c, #16a085);
-  -webkit-border-radius: 28;
-  -moz-border-radius: 28;
-  border-radius: 28px;
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
   font-family: Arial;
   color: #ffffff;
-  font-size: 41px;
+  font-size: 31px;
   padding: 10px 20px 10px 20px;
+  border: solid #16a085 1px;
   text-decoration: none;
 }
 
@@ -363,5 +366,4 @@ nav ul li:hover, nav ul li.active {
   background-image: -o-linear-gradient(top, #1abc9c, #1abc9c);
   background-image: linear-gradient(to bottom, #1abc9c, #1abc9c);
   text-decoration: none;
-  color: #ffffff;
 }
