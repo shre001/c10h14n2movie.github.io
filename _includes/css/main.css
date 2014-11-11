@@ -387,8 +387,8 @@ color:#fab125;
 
 
 #twt {
-height: 500px;
-width:500px;
+height: 30%;
+width:30%;
 float:left;
 }
 #fbwg {
@@ -400,5 +400,5 @@ float:left;
 margin-left:5%;
 }
 #mdiv {
-margin-top:7%;
+margin-top:5%;
 }
