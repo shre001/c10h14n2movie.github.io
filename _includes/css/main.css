@@ -367,3 +367,8 @@ nav ul li:hover, nav ul li.active {
   background-image: linear-gradient(to bottom, #1abc9c, #1abc9c);
   text-decoration: none;
 }
+
+#indigo{
+float:left;
+
+}
